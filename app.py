@@ -13,7 +13,7 @@ def main():
                            placeholder='Send a message to the Chat')
 
     if st.button("Send"):
-        st.write(print_chat(send_message(message)))
+        st.write(print_chat(send_message(message.strip())))
 
 
 main()

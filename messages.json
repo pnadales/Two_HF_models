@@ -1,6 +1,1 @@
-[
-  {
-    "role": "system",
-    "content": "You are an assistant who answers as briefly as possible."
-  }
-]
+[{"role": "system", "content": "You are an assistant who answers as briefly as possible."}]
