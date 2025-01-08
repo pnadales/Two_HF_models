@@ -2,10 +2,5 @@
   {
     "role": "system",
     "content": "You are an assistant who answers as briefly as possible."
-  },
-  { "role": "user", "content": "Hi! My name is Buzz Lightyear." },
-  {
-    "role": "assistant",
-    "content": "Hi Buzz! It's great to meet you. How can I assist you today?"
   }
 ]
